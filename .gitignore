@@ -1,0 +1,17 @@
+# Build and binary artifacts
+*.exe
+*.out
+*.test
+
+# Local environment files
+.env
+.env.*
+
+# IDE / editor files
+.vscode/
+.idea/
+.DS_Store 
+
+# Dependency or vendor dirs
+/vendor
+/azure-sdk-for-go
